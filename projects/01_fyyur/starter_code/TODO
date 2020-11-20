@@ -5,3 +5,4 @@
 5   In "/forms.py", ArtistForm, implement genres enum restriction
 6   In "/forms.py", ArtistForm, implement facebook_link enum restriction
 7   In "/forms.py", IMPLEMENT NEW ARTIST FORM AND NEW SHOW FORM
+
