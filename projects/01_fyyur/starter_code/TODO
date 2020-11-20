@@ -1,0 +1,7 @@
+1   In "/config.py", IMPLEMENT DATABASE URL
+2   In "/templates/pages/show.html", implement show search frontend
+3   In "/forms.py", VenueForm, implement genres enum restriction
+4   In "/forms.py", ArtistForm, implement phone validation logic for state
+5   In "/forms.py", ArtistForm, implement genres enum restriction
+6   In "/forms.py", ArtistForm, implement facebook_link enum restriction
+7   In "/forms.py", IMPLEMENT NEW ARTIST FORM AND NEW SHOW FORM
