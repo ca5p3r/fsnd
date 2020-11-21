@@ -5,4 +5,28 @@
 5   In "/forms.py", ArtistForm, implement genres enum restriction
 6   In "/forms.py", ArtistForm, implement facebook_link enum restriction
 7   In "/forms.py", IMPLEMENT NEW ARTIST FORM AND NEW SHOW FORM
-
+8   In "/app.py", Connect to a local postgresql database
+8   In "/app.py", Venue, Implement any missing fields, as a database migration using Flask-Migrate
+8   In "/app.py", Artist, Implement any missing fields, as a database migration using Flask-Migrate
+8   In "/app.py", Implement Show and Artist models, and complete all model relationships and properties, as a database migration.
+8   In "/app.py", venues, Replace with real venues data.
+8   In "/app.py", search_venues, Implement search on artists with partial string search. Ensure it is case-insensitive.
+8   In "/app.py", show_venue, Replace with real venue data from the venues table, using venue_id
+8   In "/app.py", create_venue_submission, insert form data as a new Venue record in the db, instead
+8   In "/app.py", create_venue_submission, modify data to be the data object returned from db insertion
+8   In "/app.py", create_venue_submission, on unsuccessful db insert, flash an error instead.
+8   In "/app.py", delete_venue, Complete this endpoint for taking a venue_id, and using
+8   In "/app.py", delete_venue, BONUS CHALLENGE, Implement a button to delete a Venue on a Venue Page, have it so that clicking that button delete it from the db then redirect the user to the homepage
+8   In "/app.py", artists, replace with real data returned from querying the database
+8   In "/app.py", search_artists, implement search on artists with partial string search. Ensure it is case-insensitive.
+8   In "/app.py", show_artist, replace with real venue data from the venues table, using venue_id
+8   In "/app.py", edit_artist, populate form with fields from artist with ID <artist_id>
+8   In "/app.py", edit_artist_submission, take values from the form submitted, and update existing artist record with ID <artist_id> using the new attributes
+8   In "/app.py", edit_venue, populate form with values from venue with ID <venue_id>
+8   In "/app.py", edit_venue_submission, take values from the form submitted, and update existing venue record with ID <venue_id> using the new attributes
+8   In "/app.py", create_artist_submission, insert form data as a new Venue record in the db, instead
+8   In "/app.py", create_artist_submission, modify data to be the data object returned from db insertion
+8   In "/app.py", create_artist_submission, on unsuccessful db insert, flash an error instead.
+8   In "/app.py", shows, replace with real venues data.
+8   In "/app.py", create_show_submission, insert form data as a new Show record in the db, instead
+8   In "/app.py", create_show_submission, on unsuccessful db insert, flash an error instead.
